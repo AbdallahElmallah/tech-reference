@@ -30,9 +30,6 @@ A comprehensive technical reference containing progressive learning paths for th
   - Level 4: Kubernetes and Cluster Management
 
 ### 💻 Programming Languages
-- **[Java](./java/)** - Java Programming Language
-  - Level 1: Java Fundamentals and OOP
-
 - **[Python Scripting](./python-scripting/)** - Python Scripting
   - Level 1: Python Basics and Automation
 
